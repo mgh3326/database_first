@@ -13,3 +13,6 @@ show create table t1;
 
 select *
 from t1;
+
+# prompt Tranaction A
+# 이건 안되서 내가 직접 mysql 에서 함
